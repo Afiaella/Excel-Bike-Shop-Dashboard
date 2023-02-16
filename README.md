@@ -20,6 +20,7 @@ The third one compared customers age brackets and whether they purchased a bike 
 
 ## Step 3: Dashboard 
 The final dashboard consisted of three visualisation. I decided to add a slicer which allows the user to filter through the data in order to get the comparison that they are looking for: 
+
 <img width="448" alt="image" src="https://user-images.githubusercontent.com/85926823/219499649-647640c3-63e6-4681-a2d9-55486a881fb7.png">
 
 
