@@ -1,4 +1,4 @@
-# Excel-Bike-Shop-Dashboard
+# Bike-Shop-Dashboard
 
 In this project I went through the data cleaning process and dashboard creation in Excel of a Bike Shop Dataset. The aim of this project was to have a better understanding of the customers of this Bike Shop. 
 
